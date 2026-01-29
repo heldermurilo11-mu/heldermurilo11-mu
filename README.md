@@ -1,16 +1,22 @@
 ## Hi there 👋
 
-<!--
-**heldermurilo11-mu/heldermurilo11-mu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Helder Murilo | BPM Analyst & RPA Developer
+Olá! Sou o Helder, profissional focado em otimização de processos e automação inteligente. Atualmente, transformo fluxos de trabalho no Grupo EP, utilizando tecnologia para conectar sistemas e pessoas.
 
-Here are some ideas to get you started:
+🛠️ No que estou trabalhando
+Atualmente: Analista de BPM e desenvolvedor de automações RPA (Web & Desktop).
+Já trabalhei com: Desenvolvimentod e processos para auditoria ISO 9001, controle de documentações, homologação de fornecedores e construção da cadeia avaliativa, transformação digital de processos manuais de baixa complexidade, AppScript, AppSheet.
+  
+💪🏻🤓 Foco Técnico: Construção de automações robustas com BotCity e integração de sistemas.
 
-- 🔭 I’m currently working on RPA webautomations
-- 🌱 I’m currently learning about computer vision, process automation and how to use API, build gateways to make systems talk to theirself
-- 👯 I’m looking to collaborate on web dev
-- 🤔 I’m looking for help with webdev, undertanding systems and plataforms
-- 💬 Ask me about processes manage, RPA and BotCity #lol
-- 📫 How to reach me: U can find me at https://www.linkedin.com/in/murilo-a-46129410a/
-- 😄 Pronouns: He\Him
-- ⚡ Fun fact: Well... I have a fascination with the musical Wicked, specifically with the Brazilian production.
--->
+Em aprendizado: Explorando o mundo de Computer Vision, arquitetura de APIs e Gateways para criar ecossistemas que "falam" entre si.
+
+🤝 Colaboração e Networking
+👯 Buscando colaborar em: Projetos de Web Development e automações Open Source.
+
+🤔 Buscando ajuda em: Aprofundar conhecimentos em arquitetura de sistemas e plataformas de larga escala.
+
+💬 Pode me perguntar sobre: Gestão de Processos (BPMN), RPA, BotCity e como estruturar bots eficientes.
+
+🎭 Além do código
+Fun Fact: Sou fascinado pelo musical Wicked, especialmente a montagem brasileira. Se quiser falar sobre como e por que desafiar a gravidade eu posso ser a pessoa certa.
